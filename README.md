@@ -17,4 +17,6 @@
 Esse é um projeto realizado como desafio pela empresa Wefit para o desafio de JS. 
 Todas as alterações do projeto raiz foram feitas no arquivo main.js
 
+Para visualizar o resultado publicado do desafio.
 
+https://deft-douhua-3632c1.netlify.app/
